@@ -1,0 +1,102 @@
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 2.3rem;
+    padding-bottom: 3%;
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 1.9rem;
+    font-weight: 700;
+}
+
+p {
+    color: #807e7e;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+}
+
+.home {
+    padding: 3.5% 13% 6%;
+    text-align: center;
+}
+
+.profile-image {
+    size: 300px;
+    padding: 6.5% 1%;
+}
+
+/* Navigation bar */
+.navbar-brand {
+    font-size: 2.3rem;
+    font-weight: 600;
+    padding: 1%;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar {
+    padding: 3% 13% 0%;
+}
+
+
+
+/* ID */
+#home-section,
+#navigation {
+    background-color: #b7efcd;
+}
+
+/* Skills Section */
+#skills {
+    padding: 5% 12%; 
+
+}
+
+.skill-info p {
+    font-size: 1.1rem;
+    color: #8f8f8f;
+} 
+
+.skill-icon {
+    padding-bottom: 5%;
+}
+
+.icon:hover {
+    color: #2bdfb8;
+    transition: 0.3s;
+}
+
+/* Certification section */
+#certificate {
+    padding: 5% 12%;
+    background-color: #b7efcd;
+}
+
+/* Footer */
+#footer {
+    padding: 5% 12%;
+}
+
+.social-icon {
+    padding: 2%;
+}
+
+.social-icon:hover {
+    color: rgba(18, 78, 156, 0.884);
+    padding: 2%;
+    transition: 0.3s;
+}
